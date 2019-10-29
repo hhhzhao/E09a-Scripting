@@ -1,3 +1,6 @@
+Hello, this is Hua Zhao. In the assignment, I updated a scoring system to the game so the break out game can calculate how many lives do you still have and what is the current score of the game. Also, when you finish the game, you are directed to the end screen. This is the most simple kind of the game. Enjoy the game!
+
+
 # E09a-Scripting
 
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about scripting and signals in gdScript.
